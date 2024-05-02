@@ -1,9 +1,7 @@
 import time
 import sys
 
-from revedupasse import reveDuPasse
-
-def Scenario1(player):
+def unSouvenirEloigne(player):
     print("Vous vous réveillez dans une forêt sombre et dense.")
     time.sleep(2)
     print("Vous ne savez pas comment vous êtes arrivé ici.")
