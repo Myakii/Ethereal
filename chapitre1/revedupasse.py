@@ -55,4 +55,5 @@ def reveDuPasse():
     time.sleep(2)
     print("Mais qu'importe à quel point les villageois donnaient de l'eau ou d'amour, l'arbre ne reprenait pas vie.")
     time.sleep(2)
+    print("Le visage de la jeune fille s'assombrit.")
     
