@@ -60,4 +60,11 @@ def reveDuPasse():
     print("« Ma mère aimait beaucoup cette histoire, elle disait que l'arbre était le symbole de notre village. »")
     time.sleep(2)
     print("« Mais un jour, elle est tombée malade et elle est morte et même temps que l'arbre. Ma grand-mère m'a dit que l'arbre était parti pour prendre soin d'elle... » Dit-elle en souriant.")
-    
+    time.sleep(2)
+    print("Vous arrivez dans le village, les habitants vous regardent avec curiosité et méfiance.")
+    time.sleep(2)
+    print("Un viel homme s'apporche de vous, il possède une longue barbe marron et à regard sévère.")
+    time.sleep(2)
+    print("Le chien se met à grogner.")
+    time.sleep(2)
+    print("« Qui êtes-vous ? » Demande l'homme.")
