@@ -1,5 +1,6 @@
 import time
 import sys
+import reveDuPasse from revedupasse
 
 def unSouvenirEloigne(player):
     print("Vous vous réveillez dans une forêt sombre et dense.")
