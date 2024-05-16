@@ -120,4 +120,10 @@ def reveDuPasse():
     print("La guérisseuse regarde l'animal et hoche la tête.")
     time.sleep(2)
     print("Elle mit sa main sur le corps de l'animal et murmura quelques mots.")
+    time.sleep(2)
+    print("Vous regardez la scène, impressionné.")
+    time.sleep(2)
+    print("La guérisseuse se tourne vers vous.")
+    time.sleep(2)
+    print("« Comment vous vous appelez ? »")
     
