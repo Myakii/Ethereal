@@ -126,4 +126,5 @@ def reveDuPasse():
     print("La guérisseuse se tourne vers vous.")
     time.sleep(2)
     print("« Comment vous vous appelez ? »")
+    time.sleep(2)
     
