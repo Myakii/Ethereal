@@ -127,4 +127,5 @@ def reveDuPasse():
     time.sleep(2)
     print("« Comment vous vous appelez ? »")
     time.sleep(2)
+    print('« Il a perdu la mémoire, grand-mère. » Répondit Valecia.')
     
